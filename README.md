@@ -1,3 +1,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ninestates9)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninestates9)  
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ninestates9)  
+![](https://stats.justsong.cn/api/leetcode?username=quanpeng&cn=true)
